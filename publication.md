@@ -18,22 +18,6 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font></td>
   </tr>
-      
-  <tr>
-    <td align="left"><ul><li><font size=4 face="黑体">一种软件定义网络下基于策略语言的云端网络资源管理控制系统 </font><font size=3>(201810159706.0)</font></li></ul></td>
-    <td align="right" rowspan="2"><font size=4>2018/08/03</font></td>
-  </tr>
-  <tr>
-    <td align="left"><font size=3 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font></td>
-  </tr>
-      
-  <tr>
-    <td align="left"><ul><li><font size=4 face="黑体">基于差分检测的控制平面故障诊断系统及其实现方法 </font><font size=3>(201910204272.6)</font></li></ul></td>
-    <td align="right" rowspan="2"><font size=4>2020/06/04</font></td>
-  </tr>
-  <tr>
-    <td align="left"><font size=3 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
-  </tr>
 </table>
 
 
