@@ -22,13 +22,28 @@ permalink: /publication/
 ### Patent
 <table>
   <tr>
-    <td align="left"><ul><li>微服务调度方法、装置以及电子设备 (CN202011564162.X)</li></ul></td>
+    <td align="left"><ol><li>微服务调度方法、装置以及电子设备 (CN202011564162.X)</li></ol></td>
     <td align="right" rowspan="2">2020</td>
   </tr>
   <tr>
-    <td align="left">**冷雪**，曾清扬</td>
+    <td align="left"><strong>冷雪</strong>，曾清扬</td>
+  </tr>
+  <tr>
+    <td align="left"><ol><li>一种软件定义网络下基于策略语言的云端网络资源管理控制系统，201810159706.0</li></ol></td>
+    <td align="right" rowspan="2">2018/08/03</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</td>
+  </tr>
+  <tr>
+    <td align="left"><ol><li>基于差分检测的控制平面故障诊断系统及其实现方法，201910204272.6</li></ol></td>
+    <td align="right" rowspan="2">2020/06/04</td>
+  </tr>
+  <tr>
+    <td align="left">陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></td>
   </tr>
 </table>
+
   1. **冷雪**，曾清扬。微服务调度方法、装置以及电子设备 (CN202011564162.X) 
     <font style="background: blue" color="yellow">蓝色</font>
   2. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（已授权，公告日：2018/08/03）
