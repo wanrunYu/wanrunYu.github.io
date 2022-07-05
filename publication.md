@@ -22,7 +22,7 @@ permalink: /publication/
 <font style="background: blue" color='#ffffff'><strong>Paper</strong></font>
 
 ### Patent
-dddddddd
+
 
 <table>
   <tr>
@@ -50,4 +50,4 @@ dddddddd
   </tr>
 </table>
 
-dd
+
