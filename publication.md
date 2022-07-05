@@ -20,6 +20,15 @@ permalink: /publication/
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
 
 ### Patent
+<table>
+  <tr>
+    <td align="left"><ul><li>微服务调度方法、装置以及电子设备 (CN202011564162.X)</li></ul></td>
+    <td align="right" rowspan="2">2020</td>
+  </tr>
+  <tr>
+    <td align="left">**冷雪**，曾清扬</td>
+  </tr>
+</table>
   1. **冷雪**，曾清扬。微服务调度方法、装置以及电子设备 (CN202011564162.X) 
     <font style="background: blue" color="yellow">蓝色</font>
   2. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（已授权，公告日：2018/08/03）
