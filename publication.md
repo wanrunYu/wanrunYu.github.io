@@ -18,28 +18,29 @@ permalink: /publication/
   4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
-    <font style="background: blue" color=#ffffff><strong>蓝色</strong></font>
+    <font style="background: blue" color='#ffffff'><strong>蓝色</strong></font>
 ### Patent
+
 <table>
   <tr>
     <td align="left"><ul><li>微服务调度方法、装置以及电子设备 (CN202011564162.X)</li><ul></td>
     <td align="right" rowspan="2">2020</td>
   </tr>
   <tr>
-    <td align="left">$~~~~$<strong>冷雪</strong>，曾清扬</td>
+    <td align="left"><strong>冷雪</strong>，曾清扬</td>
   </tr>
   <tr>
     <td align="left"><ul><li>一种软件定义网络下基于策略语言的云端网络资源管理控制系统，201810159706.0</li></ul></td>
     <td align="right" rowspan="2">2018/08/03</td>
   </tr>
   <tr>
-    <td align="left">$~~~~$<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</td>
+    <td align="left"><strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><font size=2 face="仿宋">基于差分检测的控制平面故障诊断系统及其实现方法，201910204272.6</font></li></ul></td>
+    <td align="left"><ul><li><font size=4 face="仿宋">基于差分检测的控制平面故障诊断系统及其实现方法，201910204272.6</font></li></ul></td>
     <td align="right" rowspan="2">2020/06/04</td>
   </tr>
   <tr>
-    <td align="left" <font size=3 face="仿宋">$~~~~$陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
+    <td align="left" <font size=3 face="仿宋">陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
   </tr>
 </table>
