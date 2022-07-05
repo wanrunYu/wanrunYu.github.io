@@ -13,16 +13,24 @@ permalink: /publication/
     <td align="right" rowspan="3"><font size=4>2019</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>Tzung-Han Juang, Yan Chen, Han Liu</font></td>
+    <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
     <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font></td>
   </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=4>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud</font></li></ul></td>
+    <td align="right" rowspan="3"><font size=4>2018</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=3>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font></td>
+  </tr>
 </table>
 
-
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. (**CCF A**) &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
-  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018. (**CCF B**) &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
 
 ### Journal
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. (**CCF B**)<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
