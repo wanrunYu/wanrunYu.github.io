@@ -23,26 +23,26 @@ permalink: /publication/
 
 <table>
   <tr>
-    <td align="left"><ul><li>微服务调度方法、装置以及电子设备 (CN202011564162.X)</li><ul></td>
-    <td align="right" rowspan="2">2020</td>
+    <td align="left"><ul><li><font size=4 face="黑体">微服务调度方法、装置以及电子设备 (CN202011564162.X)</font></li><ul></td>
+    <td align="right" rowspan="2"><font size=4>2020</font></td>
   </tr>
   <tr>
-    <td align="left"><strong>冷雪</strong>，曾清扬</td>
+    <td align="left"><font size=3 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font></td>
   </tr>
       
   <tr>
-    <td align="left"><ul><li>一种软件定义网络下基于策略语言的云端网络资源管理控制系统，201810159706.0</li></ul></td>
-    <td align="right" rowspan="2">2018/08/03</td>
+    <td align="left"><ul><li><font size=4 face="华文行楷">一种软件定义网络下基于策略语言的云端网络资源管理控制系统，201810159706.0</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=4>2018/08/03</font></td>
   </tr>
   <tr>
-    <td align="left"><strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</td>
+    <td align="left"><font size=3 face="华文行楷">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font></td>
   </tr>
       
   <tr>
     <td align="left"><ul><li><font size=4 face="仿宋">基于差分检测的控制平面故障诊断系统及其实现方法，201910204272.6</font></li></ul></td>
-    <td align="right" rowspan="2">2020/06/04</td>
+    <td align="right" rowspan="2"><font size=4>2020/06/04</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3 face="仿宋">&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
+    <td align="left"><font size=3 face="仿宋">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
   </tr>
 </table>
