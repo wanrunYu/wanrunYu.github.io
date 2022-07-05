@@ -18,7 +18,7 @@ permalink: /publication/
   4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
-    <font style="background: blue" color="yellow">蓝色</font>
+    <font style="background: blue" color=#ffffff><strong>蓝色</strong></font>
 ### Patent
 <table>
   <tr>
@@ -40,6 +40,6 @@ permalink: /publication/
     <td align="right" rowspan="2">2020/06/04</td>
   </tr>
   <tr>
-    <td align="left"$~~~~$<font size=3 face="仿宋">陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
+    <td align="left" <font size=3 face="仿宋">$~~~~$陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
   </tr>
 </table>
