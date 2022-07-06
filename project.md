@@ -15,16 +15,16 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font>;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>浙江省重点研发计划&nbsp;-&nbsp;云计算安全及服务系统研发及应用&emsp;</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>浙江省重点研发计划&nbsp;-&nbsp;云计算安全及服务系统研发及应用&emsp;&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>参与，骨干成员</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font>;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
