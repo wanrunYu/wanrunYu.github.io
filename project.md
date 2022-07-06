@@ -34,4 +34,22 @@ permalink: /project/
   <tr>
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Research | 研究工作</strong></font></td>
   </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Performance Improvement of Service Mesh</strong></font></li></ul></td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+    <td align="right" rowspan="2"><font size=3>2021&nbsp;-&nbsp;2022</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;分析服务网格 Istio 架构，找到性能优化点，使组件内存耗用降低了 20%</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并提出基于自适应拓扑的配置按需加载方案，使得控制面内存耗用降低了 50%，数据面内存耗用降低了 98%</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;从多个维度对 Istio 的性能进行摸底，形成了完整的性能测试报告，对性能优化和资源配置有极大的帮助</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font></td>
+  </tr>
 </table>
