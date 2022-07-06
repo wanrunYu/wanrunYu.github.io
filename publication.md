@@ -9,17 +9,17 @@ permalink: /publication/
 
 <table>
   <tr>
-    <td align="left"><ul><li><font size=4><strong>AOMO: An AI-aided Optimizer for Microservices Orchestration</strong></font></li></ul></td>
-    <td align="right" rowspan="4"><font size=4>2019</font></td>
+    <td align="left"><ul><li><font size=3><strong>AOMO: An AI-aided Optimizer for Microservices Orchestration</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2019</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font>&emsp;&emsp;<font size=3 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font></td>
   </tr>
   <tr>
-    <td align="left"><a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf">&emsp;&emsp;<font size=3 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=3 style="background: turquoise" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a></td>
+    <td align="left"><a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a> &emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
