@@ -21,7 +21,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="https://dl.acm.org/doi/10.1145/3342280.3342287"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
@@ -34,7 +34,7 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font></td>
   </tr>
-  <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="https://ieeexplore.ieee.org/document/8624135"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   
   <tr>
     <td align="left" colspan="2">&emsp;</td>
@@ -69,7 +69,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Computer Networks <strong>(CN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1016/j.comnet.2019.05.022</strong>&nbsp;</font></td>
+    <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618314129"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1016/j.comnet.2019.05.022</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -83,7 +83,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/MIC.2019.2956712</strong>&nbsp;</font></td>
+    <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/8924661"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/MIC.2019.2956712</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -97,7 +97,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys & Tutorials <strong>(COMST)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/8456508"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
@@ -125,7 +125,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;ACM/IEEE Transaction on Networking <strong>(ToN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/7892027"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
