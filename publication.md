@@ -94,7 +94,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2018</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, Xin Xiao</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys & Tutorials <strong>(COMST)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
@@ -142,27 +142,27 @@ permalink: /publication/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2020</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种软件定义网络下基于策略语言的云端网络资源管理控制系统</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种软件定义网络下基于策略语言的云端网络资源管理控制系统</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2018/08/03</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201810159706.0</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201810159706.0</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于差分检测的控制平面故障诊断系统及其实现方法</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于差分检测的控制平面故障诊断系统及其实现方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2020/06/04</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201910204272.6</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201910204272.6</strong>&nbsp;</font></td>
   </tr>
 </table>
 
