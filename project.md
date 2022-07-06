@@ -38,7 +38,7 @@ permalink: /project/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Performance Improvement of Service Mesh</strong></font></li></ul></td>
     <td align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
-    <td align="right" rowspan="2"><font size=3>2021&nbsp;-&nbsp;2022</font></td>
+    <td align="right"><font size=3>2021&nbsp;-&nbsp;2022</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;分析服务网格 Istio 架构，找到性能优化点，使组件内存耗用降低了 20%</font></td>
