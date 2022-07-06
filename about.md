@@ -14,7 +14,7 @@ permalink: /about/
     <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science&emsp;</strong></font></td>
     <td align="right"><font size=3><strong>国家公派联培博士</strong></font></td>
-    <td align="right" rowspan="3"><font size=3>&emsp;&emsp;2018.10-2019.06</font></td>
+    <td align="right" rowspan="3"><font size=3>&emsp;2018.10-2019.06</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>导师：</strong> Prof. Hai Zhou</font></td>
