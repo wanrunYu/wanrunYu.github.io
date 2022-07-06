@@ -16,7 +16,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font><font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font>;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -26,7 +26,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font><font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font>;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
