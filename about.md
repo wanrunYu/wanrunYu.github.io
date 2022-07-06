@@ -98,32 +98,32 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>ACM Conference on Computer and Communications Security (CCS)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;ACM Conference on Computer and Communications Security (CCS)</font></td>
     <td align="right"><font size=3>2016, 2018, 2019</font></td>
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE International Conference on Distributed Computing Systems (ICDCS)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE International Conference on Distributed Computing Systems (ICDCS)</font></td>
     <td align="right"><font size=3>2018, 2019</font></td>
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>European Symposium on Research in Computer Security (ESORIC)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;European Symposium on Research in Computer Security (ESORIC)</font></td>
     <td align="right"><font size=3>2019</font></td>
   </tr>
  
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE/ACM Transactions on Networking (ToN)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE/ACM Transactions on Networking (ToN)</font></td>
     <td align="right"><font size=3>2017, 2018</font></td>
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>Security and Privacy in Communication Networks (SecureCOMM)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;Security and Privacy in Communication Networks (SecureCOMM)</font></td>
     <td align="right"><font size=3>2016</font></td>
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE International Conference on High Performance Computing & Communications (HPCC)</strong></font></li></ul></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE International Conference on High Performance Computing & Communications (HPCC)</font></td>
     <td align="right"><font size=3>2016</font></td>
   </tr>
   
