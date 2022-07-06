@@ -18,7 +18,7 @@ permalink: /about/
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong></font></td>
-    <td align="left" colspan="2"><font size=2><strong>Advisor：</strong> Prof. Hai Zhou</font></td>
+    <td align="left" colspan="2"><font size=2><strong>Advisor：</strong><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html"> Prof. Hai Zhou</a></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security and Reliability of Microservices, Resource Management</font></td>
