@@ -27,6 +27,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Zhejiang University (ZJU)</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science & Technology</strong></font></td>
+    <td align="left">&emsp;&emsp;</td>
     <td align="right" rowspan="3"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
