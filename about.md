@@ -194,6 +194,40 @@ permalink: /about/
   </tr>
   
   <tr>
+    <td align="left" colspan="4"><font size=3><strong>》Social Activity</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;浙江大学&nbsp;&nbsp;计算机学院&nbsp;&nbsp;迎新晚会</font></td>
+    <td align="right"><font size=3>2015.12</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;浙江大学&nbsp;&nbsp;校运动会</font></td>
+    <td align="right"><font size=3>2015.10</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;第六届国际大学生雪雕大赛 志愿者</font></td>
+    <td align="right"><font size=3>2014.01</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;哈尔滨工程大学 “三下乡” 暑期社会实践--黑龙江省齐齐哈尔市泰来县</font></td>
+    <td align="right"><font size=3>2013.07</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;哈尔滨工程大学 “三下乡” 暑期社会实践--内蒙古赤峰市林西县</font></td>
+    <td align="right"><font size=3>2012.07</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;哈尔滨工程大学 “一二九” 文艺汇演</font></td>
+    <td align="right"><font size=3>2011.12</font></td>
+  </tr>
+  
+  <tr>
     <td align="center" colspan="4"> &emsp;</td>
   </tr>
   
