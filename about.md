@@ -17,7 +17,8 @@ permalink: /about/
     <td align="right" rowspan="3"><font size=3>2018.10&nbsp;-&nbsp;2019.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong> &emsp;&emsp;<strong>Advisor：</strong> Prof. Hai Zhou</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong> &emsp;&emsp;<strong>Advisor：</strong> Prof. Hai Zhou</font></td>
+    <td align="left" colspan="2"><font size=2><strong>Advisor：</strong> Prof. Hai Zhou</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security and Reliability of Microservices, Resource Management</font></td>
@@ -30,7 +31,8 @@ permalink: /about/
     <td align="right" rowspan="3"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Ph.D.</strong> &emsp;&emsp;<strong>Advisor：</strong><a href="https://users.cs.northwestern.edu/~ychen/"> Prof. Yan Chen</a></font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Ph.D.</strong> &emsp;&emsp;<strong>Advisor：</strong><a href="https://users.cs.northwestern.edu/~ychen/"> Prof. Yan Chen</a></font></td>
+    <td align="left" colspan="2"><font size=2><strong>Advisor：</strong><a href="https://users.cs.northwestern.edu/~ychen/"> Prof. Yan Chen</a></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security of Cloud-Native, Resource Management, SDN</font></td>
