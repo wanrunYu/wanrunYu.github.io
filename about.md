@@ -55,9 +55,38 @@ permalink: /about/
   <tr>
     <td align="center" colspan="4">&emsp; </td>
   </tr>
-  
+</table>
+
+
+<table>
   <tr>
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Work Experience | 工作经历</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Xidian University Hangzhou Institute of Technology</strong></font></li></ul></td>
+    <td align="left"><font size=3><strong>Lab of Cyber Security</strong></font></td>
+    <td align="left">&emsp;</td>
+    <td align="right" rowspan="3"><font size=3>2022.07&nbsp;-&nbsp;now</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Jingying Associate Professor</strong></font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security of Cloud-Native, Resource Management</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Huawei Cloud</strong></font></li></ul></td>
+    <td align="left"><font size=3><strong>Lab of Container & Service</strong></font></td>
+    <td align="left">&emsp;</td>
+    <td align="right" rowspan="3"><font size=3>2020.08&nbsp;-&nbsp;2022.06</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Senior Research & Development Engineer</strong></font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the performance improvement of Service Mesh</font></td>
   </tr>
   
   <tr>
