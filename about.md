@@ -13,7 +13,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science</strong></font></td>
-    <td align="left">&emsp;&emsp;&emsp;</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;</td>
     <td align="right" rowspan="3"><font size=3>2018.10&nbsp;-&nbsp;2019.06</font></td>
   </tr>
   <tr>
