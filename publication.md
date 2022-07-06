@@ -16,10 +16,10 @@ permalink: /publication/
     <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font></td>
+    <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font><font size=3 style="background: silver" color='#ffffff'><strong>CCF A</strong></font></td>
   </tr>
   <tr>
-    <td align="left"><a href="images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=3 style="background: gray" color='#ffffff'>&emsp;&emsp;<strong>Paper</strong></font></a>  &emsp;&emsp;<a href="images/leng/resume/AOMO_Poster.pdf"><font size=3 style="background: orange" color='#ffffff'>&emsp;&emsp;<strong>Poster</strong></font></a></td>
+    <td align="left"><a href="images/leng/resume/AOMO_SIGCOMM_Poster.pdf">&emsp;&emsp;<font size=3 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;&emsp;<a href="images/leng/resume/AOMO_Poster.pdf"><font size=3 style="background: gold" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
@@ -30,8 +30,9 @@ permalink: /publication/
     <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font></td>
+    <td align="left"><font size=3>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font><font size=3 style="background: silver" color='#ffffff'><strong>CCF B</strong></font></td>
   </tr>
+  <td align="left"><a href="images/leng/resume/SDNKeeper_IWQoS2018.pdf">&emsp;&emsp;<font size=3 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;&emsp;<a href="images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=3 style="background: orange" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a></td>
 </table>
 
 
