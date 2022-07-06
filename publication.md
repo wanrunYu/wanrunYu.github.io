@@ -50,7 +50,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;IEEE Network</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: brulywood" color='#ffffff'>&nbsp;<strong>arXiv</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: indianred" color='#ffffff'>&nbsp;<strong>arXiv</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
@@ -134,7 +134,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2020</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(CN202011564162.X)</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
@@ -142,7 +142,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2018/08/03</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(201810159706.0)</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201810159706.0</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
@@ -150,7 +150,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2020/06/04</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(201910204272.6)</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>授权</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>201910204272.6</strong>&nbsp;</font></td>
   </tr>
 </table>
 
