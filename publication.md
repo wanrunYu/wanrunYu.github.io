@@ -9,8 +9,8 @@ permalink: /publication/
 
 <table>
   <tr>
-    <td align="left"><ul><li><font size=4>AOMO: An AI-aided Optimizer for Microservices Orchestration</font></li></ul></td>
-    <td align="right" rowspan="3"><font size=4>2019</font></td>
+    <td align="left"><ul><li><font size=4><strong>AOMO: An AI-aided Optimizer for Microservices Orchestration</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=4>2019</font></td>
   </tr>
   <tr>
     <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
@@ -18,9 +18,12 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font></td>
   </tr>
+  <tr>
+    <td align="left"><a href="images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=3 style="background: gray" color='#ffffff'>&emsp;&emsp;<strong>Paper</strong></font></a>  &emsp;&emsp;<a href="images/leng/resume/AOMO_Poster.pdf"><font size=3 style="background: orange" color='#ffffff'>&emsp;&emsp;<strong>Poster</strong></font></a></td>
+  </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=4>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud</font></li></ul></td>
+    <td align="left"><ul><li><font size=4><strong>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud</strong></font></li></ul></td>
     <td align="right" rowspan="3"><font size=4>2018</font></td>
   </tr>
   <tr>
