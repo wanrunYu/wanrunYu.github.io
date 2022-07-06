@@ -64,7 +64,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Computer Networks<strong>(CN)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>DOI: 10.1016/j.comnet.2019.05.022</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -78,7 +78,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/MIC.2019.2956712</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -106,7 +106,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;ZTE Communications</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>DOI: 10.19729/j.cnki.1673-5188.2018.04.001</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -130,27 +130,27 @@ permalink: /publication/
 
 <table>
   <tr>
-    <td align="left"><ul><li><font size=4 face="黑体">微服务调度方法、装置以及电子设备 </font><font size=3>(CN202011564162.X)</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体">微服务调度方法、装置以及电子设备</font></li></ul></td>
     <td align="right" rowspan="2"><font size=4>2020</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(CN202011564162.X)</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
-    <td align="left"><ul><li><font size=4 face="黑体">一种软件定义网络下基于策略语言的云端网络资源管理控制系统 </font><font size=3>(201810159706.0)</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体">一种软件定义网络下基于策略语言的云端网络资源管理控制系统 </font></li></ul></td>
     <td align="right" rowspan="2"><font size=4>2018/08/03</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(201810159706.0)</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
-    <td align="left"><ul><li><font size=4 face="黑体">基于差分检测的控制平面故障诊断系统及其实现方法 </font><font size=3>(201910204272.6)</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体">基于差分检测的控制平面故障诊断系统及其实现方法 </font></li></ul></td>
     <td align="right" rowspan="2"><font size=4>2020/06/04</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>(201910204272.6)</strong>&nbsp;</font></td>
   </tr>
 </table>
 
