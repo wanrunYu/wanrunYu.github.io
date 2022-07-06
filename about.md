@@ -155,11 +155,11 @@ permalink: /about/
   
   <tr>
     <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;Cisco - Shanghai R&D Center</font></td>
-    <td align="right" rowspan="2"><font size=3>2016.04&nbsp;-&nbsp;2016.09</font></td>
+    <td align="right"><font size=3>2016.04&nbsp;-&nbsp;2016.09</font></td>
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&nbsp;&nbsp;Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</font></td>
   </tr>
   
   <tr>
