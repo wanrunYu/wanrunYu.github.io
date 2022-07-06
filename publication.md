@@ -4,7 +4,7 @@ title: Publications | 科研成果
 permalink: /publication/
 ---
 
-### Conference
+### Conference | 会议论文
 
 
 <table>
@@ -16,27 +16,27 @@ permalink: /publication/
     <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font>&emsp;&emsp;<font size=3 style="background: darkgray" color='#ffffff'><strong>CCF A</strong></font></td>
+    <td align="left"><font size=3>&emsp;&emsp;<strong>SIGCOMM</strong> 2019 Conference Posters and Demos</font>&emsp;&emsp;<font size=3 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left"><a href="images/leng/resume/AOMO_SIGCOMM_Poster.pdf">&emsp;&emsp;<font size=3 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="images/leng/resume/AOMO_Poster.pdf"><font size=3 style="background: turquoise" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=4><strong>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud</strong></font></li></ul></td>
-    <td align="right" rowspan="3"><font size=4>2018</font></td>
+    <td align="left"><ul><li><font size=3><strong>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2018</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=3>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font>&emsp;&emsp;<font size=3 style="background: gray" color='#ffffff'><strong>CCF B</strong></font></td>
+    <td align="left"><font size=2>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font>&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font></td>
   </tr>
-  <td align="left"><a href="images/leng/resume/SDNKeeper_IWQoS2018.pdf">&emsp;&emsp;<font size=3 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=3 style="background: orange" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a></td>
+  <td align="left"><a href="images/leng/resume/SDNKeeper_IWQoS2018.pdf">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: orange" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a></td>
 </table>
 
 
-### Journal
+### Journal | 期刊论文
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. (**CCF B**)<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
 
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392. (**中科院一区**)
@@ -47,7 +47,7 @@ permalink: /publication/
 
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
 
-### Patent
+### Patent | 专利
 
 
 <table>
