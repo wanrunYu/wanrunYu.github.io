@@ -17,7 +17,7 @@ permalink: /about/
     <td align="right" rowspan="4"><font size=3>&emsp;2018.10&nbsp;-&nbsp;2019.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong></font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong> &emsp;&emsp;<strong>Advisor：</strong> Prof. Hai Zhou</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Advisor：</strong> Prof. Hai Zhou</font></td>
@@ -33,7 +33,7 @@ permalink: /about/
     <td align="right" rowspan="4"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Ph.D.</strong></font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Ph.D.</strong> &emsp;&emsp;<strong>Advisor：</strong><a href="https://users.cs.northwestern.edu/~ychen/"> Prof. Yan Chen</a></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Advisor：</strong><a href="https://users.cs.northwestern.edu/~ychen/"> Prof. Yan Chen</a></font></td>
