@@ -13,7 +13,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science</strong></font></td>
-    <td align="left">&emsp;&emsp;</td>
+    <td align="left">&emsp;&emsp;&emsp;</td>
     <td align="right" rowspan="3"><font size=3>2018.10&nbsp;-&nbsp;2019.06</font></td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="4"><font size=3><strong>Peer Review</strong></font></td>
+    <td align="left" colspan="4"><font size=3><strong>》Peer Review</strong></font></td>
   </tr>
   
   <tr>
@@ -123,6 +123,38 @@ permalink: /about/
   <tr>
     <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE HPCC</font></td>
     <td align="right"><font size=3>2016</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="4"><font size=3><strong>》Academia Activity</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;ACM SIGCOMM 2019</font></td>
+    <td align="right" colspan="2"><font size=3>Beijing, China</font></td>
+    <td align="right" rowspan="2"><font size=3>2019.08</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong>Poster Presentation:</strong> AOMO: An AI-aided Optimizer for Microservices Orchestration</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;IEEE/ACM IWQoS 2018</font></td>
+    <td align="right" colspan="2"><font size=3>Banff, Canada</font></td>
+    <td align="right" rowspan="2"><font size=3>2018.06</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong>Paper Presentation: </strong>SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud/font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="4"><font size=3><strong>》Internship</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="4"><font size=3><strong>》Student Work Experience</strong></font></td>
   </tr>
   
   <tr>
