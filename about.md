@@ -67,7 +67,7 @@ permalink: /about/
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;<strong>Jingying Associate Professor</strong></font></td>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>Lab of Cyber Security</strong></font></td>
+    <td align="left" colspan="2"><font size=2><strong>Lab of Cyber Security</strong></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security of Cloud-Native, Resource Management</font></td>
