@@ -13,7 +13,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science&emsp;</strong></font></td>
-    <td align="right"><font size=3><strong>国家公派联培博士</strong></font></td>
+    <td align="right"><font size=3><strong>&emsp;国家公派联培博士</strong></font></td>
     <td align="right" rowspan="3"><font size=3>&emsp;2018.10-2019.06</font></td>
   </tr>
   <tr>
