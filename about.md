@@ -123,7 +123,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE International Conference on High Performance Computing & Communications (HPCC)</font></td>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;IEEE HPCC</font></td>
     <td align="right"><font size=3>2016</font></td>
   </tr>
   
