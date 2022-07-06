@@ -251,8 +251,8 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><font size=2>&emsp;-&nbsp;第九届 “博创杯” 全国大学生嵌入式物联网设计大赛 二等奖</font></td>
-    <td align="left"><font size=2>黑龙江省</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;-&nbsp;第九届 “博创杯” 全国大学生嵌入式物联网设计大赛 二等奖</font></td>
+    <td align="left"><font size=2 face="黑体">黑龙江省</font></td>
     <td align="right"><font size=2>2014.06</font></td>
   </tr>
 </table>
