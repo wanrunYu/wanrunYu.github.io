@@ -26,7 +26,7 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Zhejiang University (ZJU)</strong></font></li></ul></td>
-    <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology&emsp;</strong></font></td>
+    <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology&emsp;&emsp;</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
@@ -354,7 +354,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><font size=3>&emsp;-&nbsp;</font><font size=2>第五届 “蓝桥杯” 全国软件和信息技术专业人才大赛&nbsp;三等奖&emsp;</font></td>
+    <td align="left"><font size=3>&emsp;-&nbsp;</font><font size=2>第五届 “蓝桥杯” 全国软件和信息技术专业人才大赛&nbsp;三等奖</font></td>
     <td align="left" colspan="2"><font size=3>黑龙江省</font></td>
     <td align="right"><font size=3>2014.06</font></td>
   </tr>
@@ -366,7 +366,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><font size=3>&emsp;-&nbsp;第七届 “ICAN” 中国大学生物联网创新创业大赛&nbsp;三等奖</font></td>
+    <td align="left"><font size=3>&emsp;-&nbsp;第七届 “ICAN” 中国大学生物联网创新创业大赛&nbsp;三等奖&emsp;</font></td>
     <td align="left" colspan="2"><font size=3>国家</font></td>
     <td align="right"><font size=3>2013.09</font></td>
   </tr>
