@@ -12,8 +12,8 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;</strong></font></li></ul></td>
-    <td align="left"><font size=2><strong>Computer Science</strong></font></td>
-    <td align="left"><font size=2><strong>CSC Visitor Scholar</strong></font></td>
+    <td align="left"><font size=3><strong>Computer Science</strong></font></td>
+    <td align="left"> </td>
     <td align="right" rowspan="4"><font size=3>&emsp;2018.10&nbsp;-&nbsp;2019.06</font></td>
   </tr>
   <tr>
@@ -28,8 +28,8 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Zhejiang University (ZJU)</strong></font></li></ul></td>
-    <td align="left"><font size=2><strong>Computer Science & Technology</strong></font></td>
-    <td align="left"><font size=2><strong>Ph.D.</strong></font></td>
+    <td align="left"><font size=3><strong>Computer Science & Technology</strong></font></td>
+    <td align="left"></td>
     <td align="right" rowspan="4"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Harbin Engineering University</strong></font></li></ul></td>
-    <td align="left"><font size=2><strong>Computer Science & Technology</strong></font></td>
-    <td align="left"><font size=2><strong>B.E.</strong></font></td>
+    <td align="left"><font size=3><strong>Computer Science & Technology</strong></font></td>
+    <td align="left"></td>
     <td align="right" rowspan="3"><font size=3>2011.08&nbsp;-&nbsp;2015.06</font></td>
   </tr>
   <tr>
