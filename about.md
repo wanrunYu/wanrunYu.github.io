@@ -88,10 +88,7 @@ permalink: /about/
   <tr>
     <td align="center" colspan="4"> &emsp;</td>
   </tr>
-</table>
 
-
-<table>
   <tr>
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Activity | 专业活动</strong></font></td>
   </tr>
@@ -104,7 +101,31 @@ permalink: /about/
     <td align="left" colspan="3"><ul><li><font size=3><strong>ACM Conference on Computer and Communications Security (CCS)</strong></font></li></ul></td>
     <td align="right"><font size=3>2016, 2018, 2019</font></td>
   </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE International Conference on Distributed Computing Systems (ICDCS)</strong></font></li></ul></td>
+    <td align="right"><font size=3>2018, 2019</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>European Symposium on Research in Computer Security (ESORIC)</strong></font></li></ul></td>
+    <td align="right"><font size=3>2019</font></td>
+  </tr>
  
+  <tr>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE/ACM Transactions on Networking (ToN)</strong></font></li></ul></td>
+    <td align="right"><font size=3>2017, 2018</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>Security and Privacy in Communication Networks (SecureCOMM)</strong></font></li></ul></td>
+    <td align="right"><font size=3>2016</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>IEEE International Conference on High Performance Computing & Communications (HPCC)</strong></font></li></ul></td>
+    <td align="right"><font size=3>2016</font></td>
+  </tr>
   
   <tr>
     <td align="center" colspan="4"> &emsp;</td>
