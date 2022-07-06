@@ -27,7 +27,6 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Zhejiang University (ZJU)</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science & Technology</strong></font></td>
-    <td align="left"></td>
     <td align="right" rowspan="3"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
@@ -64,9 +63,8 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>Xidian University Hangzhou Institute of Technology</strong></font></li></ul></td>
+    <td align="left" colspan="2"><ul><li><font size=3><strong>Xidian University Hangzhou Institute of Technology</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Lab of Cyber Security</strong></font></td>
-    <td align="left">&emsp;</td>
     <td align="right" rowspan="3"><font size=3>2022.07&nbsp;-&nbsp;now</font></td>
   </tr>
   <tr>
@@ -77,9 +75,8 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>Huawei Cloud</strong></font></li></ul></td>
+    <td align="left" colspan="2"><ul><li><font size=3><strong>Huawei Cloud</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Lab of Container & Service</strong></font></td>
-    <td align="left">&emsp;</td>
     <td align="right" rowspan="3"><font size=3>2020.08&nbsp;-&nbsp;2022.06</font></td>
   </tr>
   <tr>
