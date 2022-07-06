@@ -11,9 +11,9 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)&emsp;</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Computer Science</strong></font></td>
-    <td align="left"><font size=3><strong>国家公派联培博士</strong></font></td>
+    <td align="right"><font size=3><strong>国家公派联培博士</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2018.10-2019.06</font></td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>浙江大学</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>计算机科学与技术学院</strong></font></td>
-    <td align="left"><font size=3><strong>博士</strong></font></td>
+    <td align="right"><font size=3><strong>博士</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2015.09-2020.06</font></td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>哈尔滨工程大学</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>计算机科学与技术学院</strong></font></td>
-    <td align="left"><font size=3><strong>学士</strong></font></td>
+    <td align="right"><font size=3><strong>学士</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2011.08-2015.06</font></td>
   </tr>
   <tr>
