@@ -247,19 +247,19 @@ permalink: /about/
   
   <tr>
     <td align="left"><font size=2>&emsp;-&nbsp;优秀研究生（3 次）</font></td>
-    <td align="left"><font size=2>浙江大学</font></td>
+    <td align="left" colspan="2"><font size=2>浙江大学</font></td>
     <td align="right"><font size=2>2017, 2018, 2019.12</font></td>
   </tr>
   
   <tr>
     <td align="left"><font size=2>&emsp;-&nbsp;优秀共青团干部（3 次）</font></td>
-    <td align="left"><font size=2>哈尔滨工程大学</font></td>
+    <td align="left" colspan="2"><font size=2>哈尔滨工程大学</font></td>
     <td align="right"><font size=2>2012, 2013, 2015.05</font></td>
   </tr>
   
   <tr>
     <td align="left"><font size=2>&emsp;-&nbsp;第九届 “博创杯” 全国大学生嵌入式物联网设计大赛 二等奖</font></td>
-    <td align="left"><font size=2>黑龙江省</font></td>
+    <td align="left" colspan="2"><font size=2>黑龙江省</font></td>
     <td align="right"><font size=2>2014.06</font></td>
   </tr>
 </table>
