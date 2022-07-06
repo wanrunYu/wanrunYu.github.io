@@ -48,7 +48,7 @@ permalink: /about/
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>B.E.</strong></font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>Rank：</strong> 2/159 &emsp;<strong>Average：</strong> 91.19</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Rank：</strong> 2/159 &emsp;&emsp;<strong>Average：</strong> 91.19</font></td>
     <td align="left" colspan="2"><font size=2><strong>GPA：</strong> 3.63/4.00</font></td>
   </tr>
   
