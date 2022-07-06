@@ -26,7 +26,7 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Zhejiang University (ZJU)</strong></font></li></ul></td>
-    <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology</strong></font></td>
+    <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology&emsp;</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2015.09&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
@@ -246,20 +246,140 @@ permalink: /about/
   </tr>
   
   <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;CloudBU 创意大赛 优秀奖（2 项）</font></td>
+    <td align="left" colspan="2"><font size=3>华为</font></td>
+    <td align="right"><font size=3>2020.12</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;登录计划优秀学员</font></td>
+    <td align="left" colspan="2"><font size=3>华为</font></td>
+    <td align="right"><font size=3>2020.11</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;NEO 优秀班委 & 最佳小组</font></td>
+    <td align="left" colspan="2"><font size=3>华为</font></td>
+    <td align="right"><font size=3>2020.08</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀博士生岗位助学金</font></td>
+    <td align="left" colspan="2"><font size=3>浙江大学</font></td>
+    <td align="right"><font size=3>2019.11</font></td>
+  </tr>
+  
+  <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;优秀研究生（3 次）</font></td>
     <td align="left" colspan="2"><font size=3>浙江大学</font></td>
     <td align="right"><font size=3>2017, 2018, 2019.12</font></td>
   </tr>
   
   <tr>
-    <td align="left"><font size=3>&emsp;-&nbsp;优秀共青团干部（3 次）</font></td>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀学生干部</font></td>
+    <td align="left" colspan="2"><font size=3>浙江大学</font></td>
+    <td align="right"><font size=3>2016.12</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀运动员</font></td>
+    <td align="left" colspan="2"><font size=3>浙江大学</font></td>
+    <td align="right"><font size=3>2015.12</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀毕业生</font></td>
     <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2015.06</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;三好学生</font></td>
+    <td align="left" colspan="2"><font size=3>黑龙江省</font></td>
+    <td align="right"><font size=3>2014.06</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;第六届国际雪雕大赛优秀志愿者</font></td>
+    <td align="left" colspan="2"><font size=3>国际</font></td>
+    <td align="right"><font size=3>2014.01</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;三好学生标兵（全校 10 人）</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2013.10</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;暑期社会实践先进个人（2 次）</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2012, 2013.10</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀共青团员</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2013.05</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;优秀共青团干部（3 次）</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学&emsp;&emsp;</font></td>
     <td align="right"><font size=3>2012, 2013, 2015.05</font></td>
   </tr>
   
   <tr>
-    <td align="left"><font size=2>&emsp;-&nbsp;第九届 “博创杯” 全国大学生嵌入式物联网设计大赛 二等奖</font></td>
+    <td align="left"><font size=3>&emsp;-&nbsp;宝龙达奖学金</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2015.05</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;一等奖学金（7 次）</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2011&nbsp;-&nbsp;2015</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;国家大学生创新科研立项</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2014.10</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;</font><font size=2>第九届 “博创杯” 全国大学生嵌入式物联网设计大赛&nbsp;二等奖&emsp;</font></td>
     <td align="left" colspan="2"><font size=3>黑龙江省</font></td>
     <td align="right"><font size=3>2014.06</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;</font><font size=2>第五届 “蓝桥杯” 全国软件和信息技术专业人才大赛&nbsp;三等奖&emsp;</font></td>
+    <td align="left" colspan="2"><font size=3>黑龙江省</font></td>
+    <td align="right"><font size=3>2014.06</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;第十九届 “五四杯” 大学生学术科技创新作品&nbsp;一等奖</font></td>
+    <td align="left" colspan="2"><font size=3>哈尔滨工程大学</font></td>
+    <td align="right"><font size=3>2013.11</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;第七届 “ICAN” 中国大学生物联网创新创业大赛&nbsp;三等奖</font></td>
+    <td align="left" colspan="2"><font size=3>国家</font></td>
+    <td align="right"><font size=3>2013.09</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;第三届 “赛佰特杯” 全国大学生物联网设计大赛&nbsp;三等奖</font></td>
+    <td align="left" colspan="2"><font size=3>国家</font></td>
+    <td align="right"><font size=3>2013.08</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;国家奖学金</font></td>
+    <td align="left" colspan="2"><font size=3>国家</font></td>
+    <td align="right"><font size=3>2012.12</font></td>
   </tr>
 </table>
