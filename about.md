@@ -64,7 +64,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="2"><ul><li><font size=3><strong>Xidian University Hangzhou Institute of Technology</strong></font></li></ul></td>
+    <td align="left" colspan="2"><ul><li><font size=3><strong>Xidian University</font><font size=2>Hangzhou Institute of Technology</strong></font></li></ul></td>
     <td align="left"><font size=3><strong>Lab of Cyber Security</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2022.07&nbsp;-&nbsp;now</font></td>
   </tr>
