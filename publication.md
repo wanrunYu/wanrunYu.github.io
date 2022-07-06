@@ -19,7 +19,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left"><a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   </tr>
   
   <tr>
@@ -32,20 +32,98 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font></td>
   </tr>
-  <td align="left"><a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
 </table>
 
 
 ### Journal | 期刊论文
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. (**CCF B**)<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
 
-  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392. (**中科院一区**)
-
-  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume 24, Issue 1, (2020): 25-35. DOI: 10.1109/MIC.2019.2956712
+<table>
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Security Review of Serverless Computing: Challenges, Solutions, and Opportunities</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2021</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Xing Li, <strong>Xue Leng</strong>, Yan Chen</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Network</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: brulywood" color='#ffffff'>&nbsp;<strong>arXiv</strong>&nbsp;</font></a></td>
+  </tr>
   
-  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2019</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Computer Networks<strong>(CN)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2019</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Xiaochun Wu, Kaiyu Hou, <strong>Xue Leng</strong>, Xing Li, Yinbo Yu, Bo Wu, Yan Chen</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Fault Management in Software-Defined Networking: A Survey</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2018</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, Xin Xiao</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys \& Tutorials<strong>(COMST)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Optimization Framework for Minimizing Rule Update Latency in SDN Switches</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2018</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Yan Chen, Xitao Wen, <strong>Xue Leng</strong>, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;ZTE Communications</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>RuleScope: Inspecting Forwarding Faults for Software-Defined Networking</strong></font></li></ul></td>
+    <td align="right" rowspan="4"><font size=3>2017</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, <strong>Xue Leng</strong></font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;ACM/IEEE Transaction on Networking<strong>(ToN)</strong></font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkgray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  </tr>
+</table>
 
-  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
 
 ### Patent | 专利
 
