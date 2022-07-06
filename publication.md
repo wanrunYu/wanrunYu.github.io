@@ -7,8 +7,7 @@ permalink: /publication/
 
 <table>
   <tr>
-    <td align="left"><font size=5><strong>Conference | 会议论文</strong></font></td>
-    <td>&emsp;</td>
+    <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Conference | 会议论文</strong></font></td>
   </tr>
   
   <tr>
@@ -38,13 +37,11 @@ permalink: /publication/
   <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
   
   <tr>
-    <td align="left">&emsp;</td>
-    <td>&emsp;</td>
+    <td align="left" colspan="2">&emsp;</td>
   </tr>
   
   <tr>
-    <td align="left"><font size=5><strong>Journal | 期刊论文</strong></font></td>
-    <td>&emsp;</td>
+    <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Journal | 期刊论文</strong></font></td>
   </tr>
   
   <tr>
@@ -132,13 +129,11 @@ permalink: /publication/
   </tr>
   
   <tr>
-    <td align="left">&emsp;</td>
-    <td>&emsp;</td>
+    <td align="left" colspan="2">&emsp;</td>
   </tr>
   
   <tr>
-    <td align="left"><font size=5><strong>Patent | 专利</strong></font></td>
-    <td>&emsp;</td>
+    <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Patent | 专利</strong></font></td>
   </tr>
   
   <tr>
