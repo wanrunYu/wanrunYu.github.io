@@ -44,8 +44,8 @@ permalink: /about/
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;<strong>排名：</strong> 2/159</font></td>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>GPA：</strong> 3.63/4.00</font></td>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>平均分：</strong> 91.19</font></td>
+    <td align="left"><font size=2><strong>GPA：</strong> 3.63/4.00</font></td>
+    <td align="left"><font size=2><strong>平均分：</strong> 91.19</font></td>
   </tr>
   
   <tr>
