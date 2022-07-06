@@ -10,6 +10,7 @@ permalink: /publication/
 <table>
   <tr>
     <td align="left"><font size=5><strong>Conference | 会议论文</strong></font></td>
+    <td>&emsp;</td>
   </tr>
   
   <tr>
@@ -40,6 +41,7 @@ permalink: /publication/
   
   <tr>
     <td align="left"><font size=5><strong>Journal | 期刊论文</strong></font></td>
+    <td>&emsp;</td>
   </tr>
   
   <tr>
@@ -128,6 +130,7 @@ permalink: /publication/
   
   <tr>
     <td align="left"><font size=5><strong>Patent | 专利</strong></font></td>
+    <td>&emsp;</td>
   </tr>
   
   <tr>
