@@ -106,13 +106,13 @@ rapid</font></td>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;the number of running nodes in the cluster.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a proactive prediction-based scaling mechanism, which automatically scales microservices in</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a proactive prediction-based scaling mechanism, which automatically scales microservices in advance</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;advance based on the resource usage prediction. This scaling mechanism can effectively alleviate the sluggishness</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;based on the resource usage prediction. This scaling mechanism can effectively alleviate the sluggishness in scaling</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;in scaling and mitigate resource contention and service interruption.</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;and mitigate resource contention and service interruption.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: SeaGreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
