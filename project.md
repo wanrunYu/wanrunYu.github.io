@@ -126,10 +126,10 @@ rapid</font></td>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a policy-based fine-grained access control mechanism, which can effectively prevent unauthorized</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;access requests initialed by users and malicious tampering of controllers and network resources by filtering</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;access requests initialed by users and malicious tampering of controllers and network resources by filtering and</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;and checking requests with predefined policies.</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;checking requests with predefined policies.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>SDN</strong>&nbsp;</font>&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>OpenDaylight</strong>&nbsp;</font>&emsp;<font size=2 style="background: fireBrick" color='#ffffff'>&nbsp;<strong>Access Control</strong>&nbsp;</font></td>
@@ -156,18 +156,14 @@ rapid</font></td>
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>云数据中心 SDN 控制器开发</strong></font></li></ul></td>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+    <td align="left" colspan="2"><ul><li><font size=3><strong>Development of SDN controller for Cloud Data Center</strong></font></li></ul></td>
     <td align="right"><font size=3>2016</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;基于思科 Open SDN 控制器 (OpenDaylight 的商业级版本) 开发</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We developed the SDN controller based on the Open SDN Controller of Cisco.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;在腾讯云数据中心进行网络配置测试</font></td>
-  </tr>
-  <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;负责控制器北向接口的开发</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We chose the Tencent Cloud Data Center as the test bed to perform the network configuration test.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>Intern</strong>&nbsp;</font>&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>SDN</strong>&nbsp;</font>&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>OpenDaylight</strong>&nbsp;</font></td>
@@ -178,13 +174,22 @@ rapid</font></td>
     <td align="right"><font size=3>2015&nbsp;-&nbsp;2016</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;检测下发到交换机中的流表与控制器中逻辑流表的一致</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;we presented RuleScope, a more comprehensive solution for inspecting SDN forwarding./font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并实现了对流表规则优先级错误和规则失效错误的探测算法</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;RuleScope offers a series of accurate and efficient algorithms for detecting and troubleshooting rule faults.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并实现了对流表规则优先级错误和规则失效错误的定位算法</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;They inspect forwarding behavior using customized probe packets to exercise data-plane rules.</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;The detection algorithm exposes not only missing faults but also priority faults.</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;Beyond simply detecting rule faults, the troubleshooting algorithms uncover actual dataplane flow tables.</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;They help track real-time forwarding status and benefit reliable network monitoring.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>SDN</strong>&nbsp;</font>&emsp;<font size=2 style="background: goldEnrod" color='#ffffff'>&nbsp;<strong>Configuration Consistency</strong>&nbsp;</font></td>
