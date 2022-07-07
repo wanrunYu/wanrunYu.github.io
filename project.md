@@ -123,16 +123,13 @@ rapid</font></td>
     <td align="right"><font size=3>2017&nbsp;-&nbsp;2019</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计基于策略的细粒度访问控制机制</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a policy-based fine-grained access control mechanism, which can effectively prevent unauthorized</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;通过对访问请求进行过滤审查，对 SDN 网络资源进行细粒度的访问控制</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;access requests initialed by users and malicious tampering of controllers and network resources by filtering</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;可有效阻止用户请求的越权访问和对控制器及网络资源的恶意篡改</font></td>
-  </tr>
-  <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;在 Opendaylight 控制器上开发了一个轻量级插件，用于过滤北向访问请求</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;and checking requests with predefined policies.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>SDN</strong>&nbsp;</font>&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>OpenDaylight</strong>&nbsp;</font>&emsp;<font size=2 style="background: fireBrick" color='#ffffff'>&nbsp;<strong>Access Control</strong>&nbsp;</font></td>
@@ -143,10 +140,16 @@ rapid</font></td>
     <td align="right"><font size=3>2017&nbsp;-&nbsp;2018</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;从 SDN 三层架构出发，调研当前 SDN 的可靠性问题和对应的解决方案</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We first categorized the solutions according to architecture of SDN.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;从故障分析、故障检测、故障诊断、故障修复和容错等多个维度形成 SDN 网络故障管理方案综述</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;Then, we analyzed and summarized thefault management solutions of SDN from the aspects of fault analysis,</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;fault detection, fault diagnosis,fault failover, and fault tolerance.</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;At last, we proposed the potential research opportunities.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>Survey</strong>&nbsp;</font>&emsp;<font size=2 style="background: OliveDrab" color='#ffffff'>&nbsp;<strong>SDN</strong>&nbsp;</font>&emsp;<font size=2 style="background: goldEnrod" color='#ffffff'>&nbsp;<strong>Fault Management</strong>&nbsp;</font></td>
