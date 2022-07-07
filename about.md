@@ -7,6 +7,23 @@ permalink: /about/
 
 <table>
   <tr>
+    <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>About me | 基本信息</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>Phone：</strong>13071811520</font></li></ul></td>
+    <td align="left" colspan="3"><font size=3><strong>Email：</strong>lengxue_2015@outlook.com</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="4"><ul><li><font size=3><strong>Area：</strong>the Security and Reliability of Microservices and Serverless, Resource Management, SDN</font></li></ul></td>
+  </tr>
+  
+  <tr>
+    <td align="center" colspan="4">&emsp; </td>
+  </tr>
+  
+  <tr>
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Education | 教育经历</strong></font></td>
   </tr>
   
