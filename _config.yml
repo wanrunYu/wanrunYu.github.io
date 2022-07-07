@@ -6,7 +6,6 @@
 name: Xue Leng | 冷 雪
 
 # Short bio or description (displayed in the header)
-# http://lxv458.github.io/images/leng/resume/Lengxue_CV_CN.pdf
 description: Welcome to my world!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -19,6 +18,7 @@ avatar: http://lxv458.github.io/images/leng/resume/证件照灰底-635x635.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
+  resume: images/leng/resume/Lengxue_CV_CN.pdf
   googlescholar: citations?user=qi0EGIUAAAAJ&hl=en&oi=ao
   email: lengxue_2015@outlook.com
   facebook:
