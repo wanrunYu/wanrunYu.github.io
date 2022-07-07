@@ -79,10 +79,10 @@ permalink: /project/
     <td align="right"><font size=3>2020&nbsp;-&nbsp;2022</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We introduced the security challenges of serverless computing and compared the solutions adopted in the</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We introduced the security challenges of serverless computing and compared the solutions adopted in the academia,</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;academia, industry, and open-sourced platforms.</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;industry, and open-sourced platforms.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We also analyzed the gap between solutions and proposed the potential research opportunities.</font></td>
