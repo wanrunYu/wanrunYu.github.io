@@ -65,7 +65,7 @@ permalink: /about/
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;<strong>Jingying Associate Professor</strong></font></td>
-    <td align="left" colspan="2"><font size=2><strong>Lab of Cyber Security</strong></font></td>
+    <td align="left" colspan="2"><font size=2><strong>Cyber Security Lab</strong></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security of Cloud-Native, Resource Management</font></td>
@@ -73,7 +73,7 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Huawei Cloud</strong></font></li></ul></td>
-    <td align="left" colspan="2"><font size=3><strong>Lab of Container & Service</strong></font></td>
+    <td align="left" colspan="2"><font size=3><strong>Container & Service Lab</strong></font></td>
     <td align="right" rowspan="3"><font size=3>2020.08&nbsp;-&nbsp;2022.06</font></td>
   </tr>
   <tr>
