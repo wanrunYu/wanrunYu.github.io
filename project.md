@@ -174,7 +174,7 @@ rapid</font></td>
     <td align="right"><font size=3>2015&nbsp;-&nbsp;2016</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;we presented RuleScope, a more comprehensive solution for inspecting SDN forwarding./font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We presented RuleScope, a more comprehensive solution for inspecting SDN forwarding./font></td>
   </tr>
   <tr>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;RuleScope offers a series of accurate and efficient algorithms for detecting and troubleshooting rule faults.</font></td>
