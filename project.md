@@ -50,7 +50,7 @@ permalink: /project/
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;从多个维度对 Istio 的性能进行摸底，形成了完整的性能测试报告，对性能优化和资源配置有极大的帮助</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Service Mesh</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: LimeGreen" color='#ffffff'>&nbsp;<strong>Performance Improvement</strong>&nbsp;</font>&emsp;<font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong> Production-ready</strong>&nbsp;</font></td>
+    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Service Mesh</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: SeaGreen" color='#ffffff'>&nbsp;<strong>Performance Improvement</strong>&nbsp;</font>&emsp;<font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong> Production-ready</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -95,7 +95,7 @@ permalink: /project/
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;分析数据面组件架构，低侵入、低损耗地扩展访问日志维度，用于故障根因溯源，提高运维效率</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: LimeGreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
+    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: SeaGreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
