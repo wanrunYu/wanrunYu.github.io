@@ -62,13 +62,13 @@ permalink: /project/
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We designed the escape solution for Envoy based on Iptables, which enables the system recover from the failure</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;quickly and improves the efficiency of troubleshooting.</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;quickly and improves the efficiency of troubleshooting.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We analyzed the architecture of Envoy and designed an expert system to determine the root cause by extending</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;and collecting the accesslogs in a low-intrusive manner, which improves the efficiency operation and maintenance.</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;and collecting the accesslogs in a low-intrusive manner, which improves the efficiency operation and maintenance.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Service Mesh</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Envoy</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: goldEnrod" color='#ffffff'>&nbsp;<strong>Ops</strong>&nbsp;</font>&emsp;<font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong> Production-ready</strong>&nbsp;</font></td>
@@ -79,13 +79,13 @@ permalink: /project/
     <td align="right"><font size=3>2020&nbsp;-&nbsp;2022</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;介绍无服务器计算的安全风险</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We introduced the security challenges of serverless computing and compared the solutions adopted in the</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;针对这些风险，对比学术界进行的安全研究和商用/开源平台中采取的安全措施</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;academia, industry, and open-sourced platforms.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;给出潜在的研究机会以及差距分析</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We also analyzed the gap between solutions and proposed the potential research opportunities.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>Survey</strong>&nbsp;</font>&emsp;<font size=2 style="background: chocolate" color='#ffffff'>&nbsp;<strong>Serverless</strong>&nbsp;</font>&emsp;<font size=2 style="background: fireBrick" color='#ffffff'>&nbsp;<strong>Security</strong>&nbsp;</font></td>
@@ -96,16 +96,23 @@ permalink: /project/
     <td align="right"><font size=3>2019&nbsp;-&nbsp;2020</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并实现基于排序的批调度机制，实现大规模微服务的快速最优部署，有效地提高资源利用率，减少集群中活跃的节点数，从而降低成本</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a ranking-based p-batch scheduling mechanism, which employs a pairwise ranker to achieve
+rapid</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并实现基于预测的主动伸缩机制，根据对未来资源使用率的预测实现对微服务的自动伸缩，有效避免伸缩迟缓带来的资源竞争和服务中断</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;and resource-efficient deployment for large-scale microservices to improve the resource utilization by reducing</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;设计并实现数据收集器，利用 Kubernetes 中的 metrics-server 根据自定义的数据采集 频率，收集集群中所有 Node 和 Pod 的资源使用情况，包括 CPU 和 Memory</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;the number of running nodes in the cluster.</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;基于 Kubernetes 原生的 scheduler 和 HPA 进行系统实现，在服务器搭建由 1 个主节点和 10 个工作节点组成的 Kubernetes 集群（1.14.3 版本）完成系统测试</font></td>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;We proposed a proactive prediction-based scaling mechanism, which automatically scales microservices in</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;advance based on the resource usage prediction. This scaling mechanism can effectively alleviate the sluggishness</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="4"><font size=2>&emsp;&emsp;&nbsp;&nbsp;in scaling and mitigate resource contention and service interruption.</font></td>
   </tr>
   <tr>
     <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: SeaGreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
