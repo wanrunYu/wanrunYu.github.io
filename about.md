@@ -12,7 +12,8 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>Phone：</strong>13071811520</font></li></ul></td>
-    <td align="left" colspan="3"><font size=3><strong>Email：</strong>lengxue_2015@outlook.com</font></td>
+    <td align="left" colspan="2"><font size=3><strong>Email：</strong>lengxue_2015@outlook.com</font></td>
+    <td align="right"><font size=3><strong><a href="https://lxv458.github.io/images/leng/resume/Lengxue_CV_CN.pdf">Resume (PDF)</a></strong></font></td>
   </tr>
   
   <tr>
