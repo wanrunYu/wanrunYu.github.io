@@ -130,6 +130,16 @@ permalink: /about/
   </tr>
   
   <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;IstioCon 2022</font></td>
+    <td align="left" colspan="2"><font size=3>Online</font></td>
+    <td align="right" rowspan="2"><font size=3>2022.04</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong><a href="https://events.istio.io/istiocon-2022/live/">Presentation</a>:</strong> Our way improving Service Mesh Scalability </font></td>
+  </tr>
+  
+  <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;ACM SIGCOMM 2019</font></td>
     <td align="left" colspan="2"><font size=3>Beijing, China</font></td>
     <td align="right" rowspan="2"><font size=3>2019.08</font></td>
