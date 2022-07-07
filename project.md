@@ -80,7 +80,7 @@ permalink: /project/
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;分析数据面组件架构，低侵入、低损耗地扩展访问日志维度，用于故障根因溯源，提高运维效率</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>Survey</strong>&nbsp;</font>&emsp;<font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Serverless</strong>&nbsp;</font>&emsp;<font size=2 style="background: fireBrick" color='#ffffff'>&nbsp;<strong>Security</strong>&nbsp;</font></td>
+    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>Survey</strong>&nbsp;</font>&emsp;<font size=2 style="background: chocolate" color='#ffffff'>&nbsp;<strong>Serverless</strong>&nbsp;</font>&emsp;<font size=2 style="background: fireBrick" color='#ffffff'>&nbsp;<strong>Security</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -95,7 +95,7 @@ permalink: /project/
     <td align="left" colspan="4"><font size=2>&emsp;&emsp;-&nbsp;分析数据面组件架构，低侵入、低损耗地扩展访问日志维度，用于故障根因溯源，提高运维效率</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: DarkSeaGreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
+    <td align="left" colspan="4">&emsp;&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Microservice</strong>&nbsp;</font>&emsp;<font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Kubernetes</strong>&nbsp;</font>&emsp;<font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Scheduling & Scaling</strong>&nbsp;</font>&emsp;<font size=2 style="background: Violet" color='#ffffff'>&nbsp;<strong>AI</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
