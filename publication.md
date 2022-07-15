@@ -141,7 +141,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2020</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，曾清扬</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，李星，曾清扬</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
