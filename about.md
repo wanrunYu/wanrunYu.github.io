@@ -269,7 +269,7 @@ permalink: /about/
     <td align="left"><font size=3>&emsp;-&nbsp;瑶光勋章</font></td>
     <td align="left"><font size=3>华为</font></td>
     <td align="left">&emsp;&emsp;</td>
-    <td align="right"><font size=3>2017, 2018, 2019.12</font></td>
+    <td align="right"><font size=3>2021.12</font></td>
   </tr>
   
   <tr>
