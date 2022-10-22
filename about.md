@@ -11,7 +11,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><ul><li><font size=3><strong>Email：</strong>lengxue_2015@outlook.com</font></li></ul></td>
+    <td align="left" colspan="3"><ul><li><font size=3><strong>Email：</strong>lengxue@xidian.edu.cn &emsp; lengxue_2015@outlook.com</font></li></ul></td>
     <td align="right"><font size=3><strong><a href="https://lxv458.github.io/images/leng/resume/Lengxue_CV_CN.pdf">Resume (PDF)</a></strong></font></td>
   </tr>
   
