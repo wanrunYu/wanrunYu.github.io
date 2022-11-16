@@ -108,7 +108,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Yan Chen, Xitao Wen, <strong>Xue Leng</strong>, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;ZTE Communications</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;ZTE Communications</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF T3</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.19729/j.cnki.1673-5188.2018.04.001</strong>&nbsp;</font></td>
