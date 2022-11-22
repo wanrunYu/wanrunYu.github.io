@@ -178,7 +178,7 @@ permalink: /about/
   
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;IEEE/ACM IWQoS 2018</font></td>
-    <td align="left" colspan="2"><font size=3>Banff, Canada</font></td>
+    <td align="left" colspan="2"><font size=3>Banff, Alberta, Canada</font></td>
     <td align="right"><font size=3>2018.06.04-06</font></td>
   </tr>
   
