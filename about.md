@@ -153,7 +153,7 @@ permalink: /about/
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;IstioCon 2022</font></td>
     <td align="left" colspan="2"><font size=3>Online</font></td>
-    <td align="right" rowspan="2"><font size=3>2022.04</font></td>
+    <td align="right" rowspan="2"><font size=3>2022.04.25-29</font></td>
   </tr>
   
   <tr>
@@ -163,7 +163,7 @@ permalink: /about/
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;ACM SIGCOMM 2019</font></td>
     <td align="left" colspan="2"><font size=3>Beijing, China</font></td>
-    <td align="right" rowspan="2"><font size=3>2019.08</font></td>
+    <td align="right" rowspan="2"><font size=3>2019.08.19-24</font></td>
   </tr>
   
   <tr>
@@ -171,9 +171,15 @@ permalink: /about/
   </tr>
   
   <tr>
+    <td align="left"><font size=3>&emsp;-&nbsp;The 7th Midwest Security Workshop</font></td>
+    <td align="left" colspan="2"><font size=3>University of Chicago, Illinois, US</font></td>
+    <td align="right"><font size=3>2019.04.13</font></td>
+  </tr>
+  
+  <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;IEEE/ACM IWQoS 2018</font></td>
     <td align="left" colspan="2"><font size=3>Banff, Canada</font></td>
-    <td align="right"><font size=3>2018.06</font></td>
+    <td align="right"><font size=3>2018.06.04-06</font></td>
   </tr>
   
   <tr>
