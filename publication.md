@@ -52,7 +52,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Xing Li, <strong>Xue Leng*</strong>, Yan Chen</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;IEEE Network</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Network</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: indianred" color='#ffffff'>&nbsp;<strong>arXiv Accepted</strong>&nbsp;</font></a></td>
@@ -94,7 +94,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys & Tutorials <strong>(COMST)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys & Tutorials <strong>(COMST)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/8456508"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/COMST.2018.2868922</strong>&nbsp;</font></td>
