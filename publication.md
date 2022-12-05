@@ -66,7 +66,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Computer Networks <strong>(CN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;Computer Networks <strong>(CN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618314129"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1016/j.comnet.2019.05.022</strong>&nbsp;</font></td>
@@ -80,7 +80,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Xiaochun Wu, Kaiyu Hou, <strong>Xue Leng</strong>, Xing Li, Yinbo Yu, Bo Wu, Yan Chen</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/8924661"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/MIC.2019.2956712</strong>&nbsp;</font></td>
@@ -122,7 +122,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, <strong>Xue Leng</strong></font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;ACM/IEEE Transaction on Networking <strong>(ToN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;ACM/IEEE Transaction on Networking <strong>(ToN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院二区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="https://ieeexplore.ieee.org/document/7892027"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/TNET.2017.2686443</strong>&nbsp;</font></td>
