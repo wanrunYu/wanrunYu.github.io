@@ -21,7 +21,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="https://dl.acm.org/doi/10.1145/3342280.3342287"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+    <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="https://dl.acm.org/doi/10.1145/3342280.3342287"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1145/3342280.3342287</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -34,7 +34,7 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;2018 IEEE/ACM 26th International Symposium on Quality of Service <strong>(IWQoS)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF B</strong>&nbsp;</font></td>
   </tr>
-  <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="https://ieeexplore.ieee.org/document/8624135"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a></td>
+  <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><font size=2 style="background: peru" color='#ffffff'>&nbsp;<strong>Slides</strong>&nbsp;</font></a>&emsp;<a href="https://ieeexplore.ieee.org/document/8624135"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1109/IWQoS.2018.8624135</strong>&nbsp;</font></td>
   
   <tr>
     <td align="left" colspan="2">&emsp;</td>
