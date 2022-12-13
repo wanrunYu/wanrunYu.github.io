@@ -149,7 +149,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2020/10/13</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN108366068B</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;<strong>冷雪</strong>，陈焰，侯开宇，卜凯，李星</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ZL201810159706.0</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN108366068B</strong>&nbsp;</font></td>
   </tr>
       
   <tr>
@@ -157,7 +157,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2020/09/01</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN109936479B</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ZL201910204272.6</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN109936479B</strong>&nbsp;</font></td>
   </tr>
 </table>
 
