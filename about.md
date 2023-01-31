@@ -85,7 +85,7 @@ permalink: /about/
     <td align="right" rowspan="3"><font size=3>2022.12.06&nbsp;-&nbsp;now</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>Postdoc</strong></font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Postdoc</strong></font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Configuration Management of Cloud-Native Systems</font></td>
