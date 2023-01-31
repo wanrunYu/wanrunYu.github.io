@@ -81,7 +81,7 @@ permalink: /about/
   
   <tr>
     <td align="left"><ul><li><strong><font size=3>Xidian University</font></strong></li></ul></td>
-    <td align="left" colspan="2"><strong><font size=3>Hangzhou Institute of Technology</font></strong></td>
+    <td align="left" colspan="2"><strong><font size=3>School of Cyber Engineering</font></strong></td>
     <td align="right" rowspan="3"><font size=3>2022.12.06&nbsp;-&nbsp;now</font></td>
   </tr>
   <tr>
