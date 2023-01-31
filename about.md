@@ -82,7 +82,19 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><strong><font size=3>Xidian University</font></strong></li></ul></td>
     <td align="left" colspan="2"><strong><font size=3>Hangzhou Institute of Technology</font></strong></td>
-    <td align="right" rowspan="3"><font size=3>2022.07&nbsp;-&nbsp;now</font></td>
+    <td align="right" rowspan="3"><font size=3>2022.12.06&nbsp;-&nbsp;now</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Postdoc</strong></font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Configuration Management of Cloud-Native Systems</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><strong><font size=3>Xidian University</font></strong></li></ul></td>
+    <td align="left" colspan="2"><strong><font size=3>Hangzhou Institute of Technology</font></strong></td>
+    <td align="right" rowspan="3"><font size=3>2022.07.1212&nbsp;-&nbsp;now</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;<strong>Jingying Associate Professor</strong></font></td>
@@ -95,7 +107,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Huawei Cloud</strong></font></li></ul></td>
     <td align="left" colspan="2"><font size=3><strong>Container & Service Lab</strong></font></td>
-    <td align="right" rowspan="3"><font size=3>2020.08&nbsp;-&nbsp;2022.06</font></td>
+    <td align="right" rowspan="3"><font size=3>2020.08.17&nbsp;-&nbsp;2022.06.29</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Senior Research & Development Engineer</strong></font></td>
