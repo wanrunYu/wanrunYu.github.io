@@ -61,7 +61,7 @@ permalink: /about/
   <tr>
     <td align="left"><ul><li><font size=3><strong>Harbin Engineering University</strong></font></li></ul></td>
     <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology</strong></font></td>
-    <td align="right" rowspan="3"><font size=3>2011.08&nbsp;-&nbsp;2015.06</font></td>
+    <td align="right" rowspan="3"><font size=3>2011.09&nbsp;-&nbsp;2015.06</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>B.E.</strong></font></td>
