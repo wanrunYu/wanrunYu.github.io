@@ -16,7 +16,7 @@ permalink: /project/
   </tr>
   <tr>
     <td align="left" colspan="1"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
-    <td align="right"><font size=3><strong>项目经费：</strong>6万元</font></td>
+    <td align="right"><font size=3><strong>经费：</strong>6万元</font></td>
   </tr>
   
   <tr>
@@ -26,7 +26,7 @@ permalink: /project/
   </tr>
   <tr>
     <td align="left" colspan="1"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
-    <td align="right"><font size=3><strong>项目经费：</strong>282万元</font></td>
+    <td align="right"><font size=3><strong>经费：</strong>282万元</font></td>
   </tr>
   
   <tr>
@@ -36,7 +36,7 @@ permalink: /project/
   </tr>
   <tr>
     <td align="left" colspan="1"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
-    <td align="right"><font size=3><strong>项目经费：</strong>250万元</font></td>
+    <td align="right"><font size=3><strong>经费：</strong>250万元</font></td>
   </tr>
   
   <tr>
