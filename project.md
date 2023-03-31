@@ -15,7 +15,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2023.03&nbsp;-&nbsp;2024.08</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究</font>&emsp;<strong>经费：</strong>2万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究&emsp;<strong>经费：</strong>2万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -24,7 +24,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究</font>&emsp;<strong>经费：</strong>6万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究&emsp;<strong>经费：</strong>6万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -33,7 +33,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究</font>&emsp;<strong>经费：</strong>282万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究&emsp;<strong>经费：</strong>282万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -42,7 +42,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用</font>&emsp;<strong>经费：</strong>250万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用&emsp;<strong>经费：</strong>250万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
