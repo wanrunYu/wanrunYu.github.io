@@ -20,7 +20,7 @@ permalink: /project/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项：西安电子科技大学新教师创新基金</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;西安电子科技大学新教师创新基金</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>主持</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
