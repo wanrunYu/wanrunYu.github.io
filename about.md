@@ -20,7 +20,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="4"><ul><li><font size=3><strong>社会兼职：</strong>浙江省计算机学会信息安全专委会 委员</font></li></ul></td>
+    <td align="left" colspan="4"><ul><li><font size=3><strong>社会兼职：</strong>浙江省计算机学会信息安全专委会 委员 &emsp; 浙江省计算机学会云计算专委会 委员</font></li></ul></td>
   </tr>
   
   <tr>
