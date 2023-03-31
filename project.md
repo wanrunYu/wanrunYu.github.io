@@ -11,7 +11,7 @@ permalink: /project/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>横向项目</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>主持</strong></font></td>
+    <td align="right"><font size=3><strong>主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.03.15&nbsp;-&nbsp;2024.08.31</font></td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@ permalink: /project/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;西安电子科技大学新教师创新基金</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>主持</strong></font></td>
+    <td align="right"><font size=3><strong>主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ permalink: /project/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>国家重点研发计划&nbsp;-&nbsp;网络空间安全专项</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>参与</strong></font></td>
+    <td align="right"><font size=3><strong>参与&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.12</font></td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ permalink: /project/
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>浙江省重点研发计划&nbsp;-&nbsp;云计算安全及服务系统研发及应用&emsp;&nbsp;&nbsp;</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>参与</strong></font></td>
+    <td align="right"><font size=3><strong>参与&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
