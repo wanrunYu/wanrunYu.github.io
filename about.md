@@ -163,6 +163,15 @@ permalink: /about/
   </tr>
   
   <tr>
+    <td align="left" colspan="3"><font size=3>&emsp;-&nbsp;浙江省通信学会算力调度试验设计与验证研讨会暨首届IX.CN技术论坛</font></td>
+    <td align="right" rowspan="2"><font size=3>2023.03.15</font></td>
+  </tr>
+  
+  <tr>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong>Presentation:</strong> 云原生无服务器计算安全机制</font></td>
+  </tr>
+  
+  <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;IstioCon 2022</font></td>
     <td align="left" colspan="2"><font size=3>Online</font></td>
     <td align="right" rowspan="2"><font size=3>2022.04.25-29</font></td>
