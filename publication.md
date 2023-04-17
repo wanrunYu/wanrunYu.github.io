@@ -161,4 +161,30 @@ permalink: /publication/
   </tr>
 </table>
 
+  <tr>
+    <td align="left" colspan="2">&emsp;</td>
+  </tr>
+  
+  <tr>
+    <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Book | 专著</strong></font></td>
+  </tr>
+  
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>Istio权威指南（上）：云原生服务网格Istio原理与实践</strong></font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2023/05/01</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;张超盟，徐中虎，张伟，<strong>冷雪</strong>&emsp;&emsp;电子工业出版社</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ISBN：9787121448089</strong>&nbsp;</font></td>
+  </tr>
+      
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>Istio权威指南（下）：云原生服务网格Istio架构与源码</strong></font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2023/05/01</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;张超盟，徐中虎，张伟，<strong>冷雪</strong>&emsp;&emsp;电子工业出版社</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ISBN：9787121453052</strong>&nbsp;</font></td>
+  </tr>
+</table>
+
+
 
