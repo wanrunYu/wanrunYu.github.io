@@ -159,7 +159,6 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=2 face="黑体">&emsp;&emsp;陈焰，于银菠，李星，卜凯，杨剑锋，<strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ZL201910204272.6</strong>&nbsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN109936479B</strong>&nbsp;</font></td>
   </tr>
-</table>
 
   <tr>
     <td align="left" colspan="2">&emsp;</td>
@@ -184,7 +183,6 @@ permalink: /publication/
   <tr>
     <td align="left"><font size=2 face="黑体">&emsp;&emsp;张超盟，徐中虎，张伟，<strong>冷雪</strong>&emsp;&emsp;电子工业出版社</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>ISBN：9787121453052</strong>&nbsp;</font></td>
   </tr>
+
 </table>
-
-
 
