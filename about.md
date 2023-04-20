@@ -168,7 +168,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong>Presentation:</strong> 云原生无服务器计算安全机制</font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong><a href="https://zhuanlan.zhihu.com/p/618080036">Presentation</a>:</strong> 云原生无服务器计算安全机制</font></td>
   </tr>
   
   <tr>
