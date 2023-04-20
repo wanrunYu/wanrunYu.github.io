@@ -10,12 +10,21 @@ permalink: /project/
   </tr>
   
   <tr>
+    <td align="left"><ul><li><font size=3><strong>西安电子科技大学杭州研究院概念验证基金</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2023.05&nbsp;-&nbsp;2024.04</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的访问控制关键技术研究&emsp;<strong>经费：</strong>20万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>GNYZ2023GY0401</strong>&nbsp;</font></td>
+  </tr>
+  
+  <tr>
     <td align="left"><ul><li><font size=3><strong>横向项目</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.03.15&nbsp;-&nbsp;2024.08</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究&emsp;<strong>经费：</strong>2万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究&emsp;<strong>经费：</strong>2万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XH-KY-202303-0058</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
