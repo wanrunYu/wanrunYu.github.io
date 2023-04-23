@@ -178,7 +178,7 @@ permalink: /about/
   </tr>
   
   <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong><a href="https://events.istio.io/istiocon-2022/live/">Presentation</a>:</strong> Our way improving Service Mesh Scalability </font></td>
+    <td align="left" colspan="3"><font size=2>&emsp;&nbsp;&nbsp;<strong><a href="https://www.youtube.com/watch?v=5OLcaTDSoK8">Presentation</a>:</strong> Our way improving Service Mesh Scalability </font></td>
   </tr>
   
   <tr>
