@@ -298,19 +298,19 @@ permalink: /about/
   
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;优秀作者</font></td>
-    <td align="left"><font size=3>电子工业出版社</font></td>
+    <td align="left" colspan="2"><font size=3>电子工业出版社</font></td>
     <td align="right"><font size=3>2023.11</font></td>
   </tr>
 
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;第三届网络空间安全产学协同育人优秀案例 三等奖</font></td>
-    <td align="left"><font size=3>教育部</font></td>
+    <td align="left" colspan="2"><font size=3>教育部</font></td>
     <td align="right"><font size=3>2023.07</font></td>
   </tr>
   
   <tr>
     <td align="left"><font size=3>&emsp;-&nbsp;瑶光勋章</font></td>
-    <td align="left"><font size=3>华为</font></td>
+    <td align="left" colspan="2"><font size=3>华为</font></td>
     <td align="right"><font size=3>2021.12</font></td>
   </tr>
   
