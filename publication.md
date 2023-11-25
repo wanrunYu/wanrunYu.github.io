@@ -45,7 +45,7 @@ permalink: /publication/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>Security Review of Serverless Computing: Challenges, Solutions, and Opportunities</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>Securing Serverless Computing: Challenges, Solutions, and Opportunities</strong></font></li></ul></td>
     <td align="right" rowspan="4"><font size=3>2022</font></td>
   </tr>
   <tr>
