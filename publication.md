@@ -1,4 +1,4 @@
----
+![image](https://github.com/lxv458/lxv458.github.io/assets/11827241/ebec12dd-9e50-45f7-b526-aeac7d1c86a4)---
 layout: page
 title: 
 permalink: /publication/
@@ -15,7 +15,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2024</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Qingyang Zeng, Kaiyu Hou, <strong>Xue Leng</strong>, Yan Chen</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;Qingyang Zeng, Kaiyu Hou, <strong>Xue Leng*</strong>, Yan Chen</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;International World Wide Web Conference <strong>(WWW)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
@@ -148,6 +148,14 @@ permalink: /publication/
   
   <tr>
     <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Patent | 专利</strong></font></td>
+  </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2023/11/24</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国, 池剑磊, <strong>冷雪</strong>, 孙采萱, 田野, 黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311168765.1</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
