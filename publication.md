@@ -32,7 +32,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM Poster)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="https://dl.acm.org/doi/10.1145/3342280.3342287"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1145/3342280.3342287</strong>&nbsp;</font></td>
