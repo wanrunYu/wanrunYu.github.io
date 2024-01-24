@@ -1,4 +1,4 @@
-![image](https://github.com/lxv458/lxv458.github.io/assets/11827241/ebec12dd-9e50-45f7-b526-aeac7d1c86a4)---
+---
 layout: page
 title: 
 permalink: /publication/
