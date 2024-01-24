@@ -155,7 +155,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2023/11/24</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国, 池剑磊, <strong>冷雪</strong>, 孙采萱, 田野, 黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311168765.1</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国，池剑磊，<strong>冷雪</strong>，孙采萱，田野，黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311168765.1</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
