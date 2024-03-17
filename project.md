@@ -9,22 +9,13 @@ permalink: /project/
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Project | 科研项目</strong></font></td>
   </tr>
   
-   <tr>
-    <td align="left"><ul><li><font size=3><strong>横向项目</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
-    <td align="right" rowspan="2"><font size=3>2023.08.15&nbsp;-&nbsp;2026.07</font></td>
-  </tr>
-  <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>服装企业智能制造转型升级技术研究及应用&emsp;<strong>经费：</strong>100万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XH-KY-202307-0550</strong>&nbsp;</font></td>
-  </tr> 
-  
   <tr>
     <td align="left"><ul><li><font size=3><strong>西安电子科技大学杭州研究院概念验证基金</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.05&nbsp;-&nbsp;2024.04</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的访问控制关键技术研究&emsp;<strong>经费：</strong>20万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>GNYZ2023GY0401</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的访问控制关键技术研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>GNYZ2023GY0401</strong>&nbsp;</font></td>
   </tr>
   
  <tr>
@@ -33,7 +24,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2023.03.15&nbsp;-&nbsp;2024.08</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究&emsp;<strong>经费：</strong>2万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XH-KY-202303-0058</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>无服务器计算场景下安全机制研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XH-KY-202303-0058</strong>&nbsp;</font></td>
   </tr> 
   
   <tr>
@@ -42,7 +33,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究&emsp;<strong>经费：</strong>6万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -51,7 +42,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究&emsp;<strong>经费：</strong>282万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>SDN/NFV 与 NDN 安全研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2017YFB0801703</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
@@ -60,7 +51,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2017.07&nbsp;-&nbsp;2020.06</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用&emsp;<strong>经费：</strong>250万元</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>内生安全的云计算系统主动防御技术研究与应用&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>2018C01088</strong>&nbsp;</font></td>
   </tr>
   
   <tr>
