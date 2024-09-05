@@ -32,7 +32,7 @@ permalink: /publication/
     <td align="left"><font size=2>&emsp;&emsp;<strong>Xue Leng</strong>, Tzung-Han Juang, Yan Chen, Han Liu</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM Poster)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
+    <td align="left"><font size=2>&emsp;&emsp; the ACM SIGCOMM 2019 Conference Posters and Demos <strong>(SIGCOMM Poster)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font></td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><font size=2 style="background: steelBlue" color='#ffffff'>&nbsp;<strong>Paper</strong>&nbsp;</font></a>  &emsp;<a href="http://lxv458.github.io/images/leng/resume/AOMO_Poster.pdf"><font size=2 style="background: forestgreen" color='#ffffff'>&nbsp;<strong>Poster</strong>&nbsp;</font></a>&emsp;<a href="https://dl.acm.org/doi/10.1145/3342280.3342287"><font size=2 style="background: slateBlue" color='#ffffff'>&nbsp;<strong>Online</strong>&nbsp;</font></a>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>DOI: 10.1145/3342280.3342287</strong>&nbsp;</font></td>
@@ -91,7 +91,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2019</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Xiaochun Wu, Kaiyu Hou, <strong>Xue Leng</strong>, Xing Li, Yinbo Yu, Bo Wu, Yan Chen</font></td>
+    <td align="left"><font size=2>&emsp;&emsp; Xiaochun Wu, Kaiyu Hou, <strong>Xue Leng</strong>, Xing Li, Yinbo Yu, Bo Wu, Yan Chen</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;IEEE Internet Computing</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院三区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I 区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
@@ -105,7 +105,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2018</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng</font></td>
+    <td align="left"><font size=2>&emsp;&emsp; Yinbo Yu, Xing Li, <strong>Xue Leng</strong>, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;IEEE Communications Surveys & Tutorials <strong>(COMST)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院一区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I 区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
@@ -119,7 +119,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2018</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Yan Chen, Xitao Wen, <strong>Xue Leng</strong>, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu</font></td>
+    <td align="left"><font size=2>&emsp;&emsp; Yan Chen, Xitao Wen, <strong>Xue Leng</strong>, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu</font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;ZTE Communications</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF T3</strong>&nbsp;</font></td>
@@ -133,7 +133,7 @@ permalink: /publication/
     <td align="right" rowspan="4"><font size=3>2017</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, <strong>Xue Leng</strong></font></td>
+    <td align="left"><font size=2>&emsp;&emsp; Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, <strong>Xue Leng</strong></font></td>
   </tr>
   <tr>
     <td align="left"><font size=2>&emsp;&emsp;ACM/IEEE Transaction on Networking <strong>(ToN)</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>CCF A</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>中科院二区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>JCR I 区</strong>&nbsp;</font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>SCI</strong>&nbsp;</font></td>
@@ -150,6 +150,38 @@ permalink: /publication/
     <td align="center" colspan="2"><font size=5 color='steelBlue'><strong>Patent | 专利</strong></font></td>
   </tr>
 
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于大数据的学术文献分析系统及方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>受理</strong>&nbsp;</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2024/07/12</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;沈凯文, 冷雪, 池剑磊, 黄晏瑜, 田野, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410934460.5</strong>&nbsp;</font></td>
+  </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于大模型思维链的生产-测试代码协同演化方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2024/07/12</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;池剑磊, 田野, 冷雪, 王笑天, 黄宇涵, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410384718.9</strong>&nbsp;</font></td>
+  </tr>  
+
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于国密算法的 5G 认证安全增强方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2024/06/04</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;董文睿, 冷雪, 田野, 孙建国, 黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410347086.9</strong>&nbsp;</font></td>
+  </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于神经机器翻译的测试用例版本自动迁移方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="right" rowspan="2"><font size=3>2024/04/05</font></td>
+  </tr>
+  <tr>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国, 池剑磊, 黄晏瑜, 白胜刚, 田野, 冷雪</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311584977.8 </strong>&nbsp;</font></td>
+  </tr>
+  
   <tr>
     <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2023/11/24</font></td>
