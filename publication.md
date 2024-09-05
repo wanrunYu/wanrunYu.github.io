@@ -155,7 +155,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2024/07/12</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;沈凯文, 冷雪, 池剑磊, 黄晏瑜, 田野, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410934460.5</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;沈凯文, <strong>冷雪</strong>, 池剑磊, 黄晏瑜, 田野, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410934460.5</strong>&nbsp;</font></td>
   </tr>
 
   <tr>
@@ -163,7 +163,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2024/07/12</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;池剑磊, 田野, 冷雪, 王笑天, 黄宇涵, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410384718.9</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;池剑磊, 田野, <strong>冷雪</strong>, 王笑天, 黄宇涵, 孙建国</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410384718.9</strong>&nbsp;</font></td>
   </tr>  
 
   <tr>
@@ -171,7 +171,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2024/06/04</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;董文睿, 冷雪, 田野, 孙建国, 黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410347086.9</strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;董文睿, <strong>冷雪</strong>, 田野, 孙建国, 黄晏瑜</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410347086.9</strong>&nbsp;</font></td>
   </tr>
 
   <tr>
@@ -179,7 +179,7 @@ permalink: /publication/
     <td align="right" rowspan="2"><font size=3>2024/04/05</font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国, 池剑磊, 黄晏瑜, 白胜刚, 田野, 冷雪</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311584977.8 </strong>&nbsp;</font></td>
+    <td align="left"><font size=2 face="黑体">&emsp;&emsp;孙建国, 池剑磊, 黄晏瑜, 白胜刚, 田野, <strong>冷雪</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311584977.8 </strong>&nbsp;</font></td>
   </tr>
   
   <tr>
