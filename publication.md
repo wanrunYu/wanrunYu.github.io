@@ -159,7 +159,7 @@ permalink: /publication/
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于大模型思维链的生产-测试代码协同演化方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于大模型思维链的生产-测试代码协同演化方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>公开</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2024/07/12</font></td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ permalink: /publication/
   </tr>  
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于国密算法的 5G 认证安全增强方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于国密算法的 5G 认证安全增强方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>公开</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2024/06/04</font></td>
   </tr>
   <tr>
@@ -175,7 +175,7 @@ permalink: /publication/
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于神经机器翻译的测试用例版本自动迁移方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于神经机器翻译的测试用例版本自动迁移方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>公开</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2024/04/05</font></td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ permalink: /publication/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>公开</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2023/11/24</font></td>
   </tr>
   <tr>
@@ -191,7 +191,7 @@ permalink: /publication/
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>实质审查</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font>&emsp;<font size=2 style="background: gray" color='#ffffff'>&nbsp;<strong>公开</strong>&nbsp;</font></li></ul></td>
     <td align="right" rowspan="2"><font size=3>2021/04/20</font></td>
   </tr>
   <tr>
