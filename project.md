@@ -19,7 +19,7 @@ permalink: /project/
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;西安电子科技大学新教师创新基金</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;新教师创新基金</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
@@ -57,7 +57,7 @@ permalink: /project/
   <tr>
     <td align="left"><ul><li><font size=3><strong>工信部&nbsp;-&nbsp;工业互联网高质量发展专项</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;参与&emsp;</strong></font></td>
-    <td align="right" rowspan="2"><font size=3>2022.08.01&nbsp;-&nbsp;2024.07.31</font></td>
+    <td align="right" rowspan="2"><font size=3>2022.08&nbsp;-&nbsp;2024.07</font></td>
   </tr>
   <tr>
     <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>人工智能系统安全测试与鲁棒性增强软硬件一体化系统&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
@@ -66,7 +66,7 @@ permalink: /project/
   <tr>
     <td align="left"><ul><li><font size=3><strong>工信部&nbsp;-&nbsp;工业互联网高质量发展专项</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;参与&emsp;</strong></font></td>
-    <td align="right" rowspan="2"><font size=3>2022.07.10&nbsp;-&nbsp;2024.07.09</font></td>
+    <td align="right" rowspan="2"><font size=3>2022.07&nbsp;-&nbsp;2024.07</font></td>
   </tr>
   <tr>
     <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>业互联网数据安全检测响应与溯源系统项目&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
