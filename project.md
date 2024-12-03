@@ -8,6 +8,24 @@ permalink: /project/
   <tr>
     <td align="center" colspan="4"><font size=5 color='steelBlue'><strong>Project | 科研项目</strong></font></td>
   </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>教育部产学合作协同育人项目</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2024.01&nbsp;-&nbsp;2024.12</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>网络空间安全人才实践基地建设&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+  </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;西安电子科技大学新教师创新基金</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+  </tr>
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>西安电子科技大学杭州研究院概念验证基金</strong></font></li></ul></td>
@@ -17,9 +35,18 @@ permalink: /project/
   <tr>
     <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的访问控制关键技术研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>GNYZ2023GY0401</strong>&nbsp;</font></td>
   </tr>
+
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>西安电子科技大学杭州研究院概念验证基金</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;参与&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2023.05&nbsp;-&nbsp;2025.04</font></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>基于可信计算的工业控制系统网络安全科研平台&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+  </tr>
   
  <tr>
-    <td align="left"><ul><li><font size=3><strong>横向项目</strong></font></li></ul></td>
+    <td align="left"><ul><li><font size=3><strong>企业科研协作</strong></font></li></ul></td>
     <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
     <td align="right" rowspan="2"><font size=3>2023.03.15&nbsp;-&nbsp;2024.08</font></td>
   </tr>
@@ -28,13 +55,22 @@ permalink: /project/
   </tr> 
   
   <tr>
-    <td align="left"><ul><li><font size=3><strong>中央高校基本科研业务费专项&nbsp;-&nbsp;西安电子科技大学新教师创新基金</strong></font></li></ul></td>
-    <td align="right"><font size=3><strong>&emsp;主持&emsp;</strong></font></td>
-    <td align="right" rowspan="2"><font size=3>2023.01&nbsp;-&nbsp;2024.12</font></td>
+    <td align="left"><ul><li><font size=3><strong>工信部&nbsp;-&nbsp;工业互联网高质量发展专项</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;参与&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2022.08.01&nbsp;-&nbsp;2024.07.31</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>面向云原生应用的服务编排与配置管理关键技术研究&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>XJSJ23004</strong>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>人工智能系统安全测试与鲁棒性增强软硬件一体化系统&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+  </tr> 
+
+  <tr>
+    <td align="left"><ul><li><font size=3><strong>工信部&nbsp;-&nbsp;工业互联网高质量发展专项</strong></font></li></ul></td>
+    <td align="right"><font size=3><strong>&emsp;参与&emsp;</strong></font></td>
+    <td align="right" rowspan="2"><font size=3>2022.07.10&nbsp;-&nbsp;2024.07.09</font></td>
   </tr>
+  <tr>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>业互联网数据安全检测响应与溯源系统项目&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+  </tr> 
   
   <tr>
     <td align="left"><ul><li><font size=3><strong>国家重点研发计划&nbsp;-&nbsp;网络空间安全专项</strong></font></li></ul></td>
