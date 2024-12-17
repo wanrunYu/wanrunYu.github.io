@@ -15,7 +15,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2024.01&nbsp;-&nbsp;2024.12</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>网络空间安全人才实践基地建设&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>网络空间安全人才实践基地建设&emsp;</font></td>
   </tr>
 
   <tr>
@@ -42,7 +42,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2023.05&nbsp;-&nbsp;2025.04</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>基于可信计算的工业控制系统网络安全科研平台&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>基于可信计算的工业控制系统网络安全科研平台&emsp;</font></td>
   </tr>
   
  <tr>
@@ -60,7 +60,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2022.08&nbsp;-&nbsp;2024.07</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>人工智能系统安全测试与鲁棒性增强软硬件一体化系统&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>人工智能系统安全测试与鲁棒性增强软硬件一体化系统&emsp;</font></td>
   </tr> 
 
   <tr>
@@ -69,7 +69,7 @@ permalink: /project/
     <td align="right" rowspan="2"><font size=3>2022.07&nbsp;-&nbsp;2024.07</font></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>业互联网数据安全检测响应与溯源系统项目&emsp;</font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;</font></td>
+    <td align="left" colspan="2"><font size=2>&emsp;&emsp;<strong>名称：</strong>业互联网数据安全检测响应与溯源系统项目&emsp;</font></td>
   </tr> 
   
   <tr>
