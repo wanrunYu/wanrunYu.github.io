@@ -151,32 +151,32 @@ permalink: /publication/
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于大数据的学术文献分析系统及方法</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410934460.5</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于大数据的学术文献分析系统及方法</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410934460.5</strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2024/10/01</font></td>
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于大模型思维链的生产-测试代码协同演化方法</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410384718.9</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于大模型思维链的生产-测试代码协同演化方法</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410384718.9</strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2024/07/12</font></td>
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于国密算法的 5G 认证安全增强方法</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410347086.9</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于国密算法的 5G 认证安全增强方法</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202410347086.9</strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2024/06/04</font></td>
   </tr>
 
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于神经机器翻译的测试用例版本自动迁移方法</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311584977.8 </strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>一种基于神经机器翻译的测试用例版本自动迁移方法</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311584977.8 </strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2024/04/05</font></td>
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311168765.1</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>基于图嵌入的细粒度代码差异获取方法</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>202311168765.1</strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2023/11/24</font></td>
   </tr>
   
   <tr>
-    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font>&emsp;&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></li></ul></td>
+    <td align="left"><ul><li><font size=3 face="黑体"><strong>微服务调度方法、装置以及电子设备</strong></font>&emsp;<font size=2 style="background: darkkhaki" color='#ffffff'>&nbsp;<strong>CN202011564162.X</strong>&nbsp;</font></li></ul></td>
     <td align="right"><font size=3>2021/04/20</font></td>
   </tr>
       
