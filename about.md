@@ -1,9 +1,3 @@
----
-layout: page
-title: 
-permalink: /about/
----
-
 
 <table>
   <tr>
