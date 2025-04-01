@@ -5,7 +5,7 @@
   
   <tr>
     <td align="left" colspan="3"><ul><li><font size=3><strong>Email：</strong>870631863@qq.com &emsp; </font></li></ul></td>
-    <td align="right"><font size=3><strong><a href="https://lxv458.github.io/images/leng/resume/Xue_CV_Chinese_20230422.pdf">Resume (PDF)</a></strong></font></td>
+    <td align="right"><font size=3><strong><a href="https://wanrunYU.github.io/images/leng/resume/于万润简历.pdf">Resume (PDF)</a></strong></font></td>
   </tr>
   
   <tr>
