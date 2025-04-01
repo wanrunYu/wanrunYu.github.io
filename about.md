@@ -27,33 +27,18 @@
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>学校所在地：</strong>中国·陕西·西安</font></td>
-  </tr>
-
+  </tr>  
   <tr>
-    <td align="left"><ul><li><font size=3><strong>Northwestern University (USA)</strong></font></li></ul></td>
-    <td align="left"><font size=3><strong>Computer Science</strong></font></td>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;&emsp;</td>
-    <td align="right" rowspan="3"><font size=3>2018.10&nbsp;-&nbsp;2019.06</font></td>
-  </tr>
-  <tr>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>CSC Visitor Scholar</strong></font></td>
-    <td align="left" colspan="2"><font size=2><strong>Advisor：</strong><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html"> Prof. Hai Zhou</a></font></td>
-  </tr>
-  <tr>
-    <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>Area：</strong>the Security and Reliability of Microservices, Resource Management</font></td>
-  </tr>
-  
-  <tr>
-    <td align="left"><ul><li><font size=3><strong>Harbin Engineering University</strong></font></li></ul></td>
-    <td align="left" colspan="2"><font size=3><strong>Computer Science & Technology</strong></font></td>
-    <td align="right" rowspan="3"><font size=3>2011.09&nbsp;-&nbsp;2015.06</font></td>
+    <td align="left"><ul><li><font size=3><strong>齐鲁工业大学（山东省科学院）</strong></font></li></ul></td>
+    <td align="left" colspan="2"><font size=3><strong>网络空间安全</strong></font></td>
+    <td align="right" rowspan="3"><font size=3>2019.09&nbsp;-&nbsp;2023.06</font></td>
   </tr>
   <tr>
     <td align="left" colspan="3"><font size=2>&emsp;&emsp;<strong>B.E.</strong></font></td>
   </tr>
   <tr>
-    <td align="left"><font size=2>&emsp;&emsp;<strong>Rank：</strong> 2/159 &emsp;&emsp;<strong>Average：</strong> 91.19</font></td>
-    <td align="left" colspan="2"><font size=2><strong>GPA：</strong> 3.63/4.00</font></td>
+    <td align="left"><font size=2>&emsp;&emsp;<strong>Rank：</strong> 7/55 &emsp;&emsp;
+    <td align="left" colspan="2"><font size=2><strong>GPA：</strong> 4.19/5.00</font></td>
   </tr>
   
   <tr>
